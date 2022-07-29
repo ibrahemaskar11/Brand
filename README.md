@@ -1,5 +1,3 @@
-# Brand.
-Brand is a website developed using React and TailwindCSS 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
