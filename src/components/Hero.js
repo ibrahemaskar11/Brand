@@ -10,7 +10,7 @@ const Hero = () => {
   return (
     <section
       name="hero"
-      className="w-full h-screen flex flex-col bg-zinc-200 items-center justify-between py-16"
+      className="w-full h-screen flex flex-col bg-zinc-200 items-center justify-between mb-16 pt-16"
     >
       <div className="grid md:grid-cols-2 max-w-[1240px] m-auto">
         <div className="flex flex-col justify-center items-center md:items-start w-full py-8 px-2">
@@ -23,7 +23,7 @@ const Hero = () => {
           <img className="w-full" src={heroImg} alt="" />
         </div>
       </div>
-      <div className="flex flex-col w-full lg:w-[45%] text-center border-2 bg-zinc-200 border-slate-300 self-center shadow-xl rounded-xl bg-salate-200 py-4 mx-1 px-2 mb-12">
+      <div className="flex flex-col w-full lg:w-[45%] text-center border-2 bg-zinc-200 border-slate-300 self-center shadow-xl rounded-xl bg-salate-200 py-4 mx-1 px-2 mb-32">
         <h3>Data Services</h3>
         <ul className="flex justify-between px-4 py-2 flex-wrap items-start">
           <li className="flex text-slate-500 "><CloudUploadIcon className="w-6 text-indigo-600" />App Security</li>

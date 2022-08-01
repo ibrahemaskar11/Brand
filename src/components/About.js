@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section name="about" className="my-16 sm:my-32 w-full">
+    <section name="about"  className="py-20 sm:py-24 w-full">
       <div className="mx-auto max-w-[1240px] flex flex-col items-center justify-center text-center">
         <h1 className="font-bold text-4xl sm:text-5xl mb-8">
           Trusted by developers across the world
